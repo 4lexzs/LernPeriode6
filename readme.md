@@ -14,10 +14,11 @@
 
 ## 30.8
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Projekt von Colic
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Ich habe heute allgemein alles bei C# geübt, weil ich gemerkt habe das cih noch viel mehr wissen bruache dafür, deswegen habe ich mich entschieden dass ich als Projekt einfach mal alles wwas wir bis jetzt auf C# gemacht haben wieder zu üben und richtig verstehen.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 30.08.2024
+
+- [ ] Arrays üben
+- [ ] 
