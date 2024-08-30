@@ -21,4 +21,8 @@
 ## 30.08.2024
 
 - [ ] Arrays üben
-- [ ] 
+
+
+✍️  Ich habe heute eigentlich nur Videos angeschaut in welche mir Arrays und weitere themen erklärt wurden. Ich denke ich verstehe sie jz besser. Nächste Woche will ich mit dem selber üben anfangen und mache dafür ein projekt in dem ich einfach so viele arrays wie möglcih brauche.
+
+## 06.08.2024
