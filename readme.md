@@ -27,5 +27,7 @@
 
 ## 25.10.2024
 
-- [ ] Schere, Stein, Papier spiel programmieren.
-- [ ] die ganze Aufgabe 8421 fertig lösen.
+- [X] Schere, Stein, Papier spiel programmieren.
+- [X] die ganze Aufgabe 8421 fertig lösen.
+
+✍️ Ich habe heute gut gearbeitet, habe die aufgabe 8421 vollständig erledigt, zwar bin ich fertig geworden, aber ich habe das gefühl das es relativ schlecht ausgegangen ist. Ich denke es hat kleine fehler zum Beispiel, wenn die Seite fragt mit wie vielen Runden das spiel enden soll, gebe ich 5 ein aber nach 5 runden geht das spiel noch weiter. Ausser diese 'Fehler' funktioniert alles so wie es soll.
