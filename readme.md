@@ -37,3 +37,5 @@
 - [X] Eine Webseite Dynamisch machen
 - [X] In der Webseite die Autoren mit einem Button Ein- und Ausblenden.
 - [X] die ganze Aufgabe 8423 abgeben
+
+✍️ Ich habe heute sehr gut gearbeite und ich konnte diese Webseite fertig stellen wie es auf der Aufgabenstellung gestanden ist. Ich habe paar Sachen debuggen machen müssen weil es immer kleine Fehler gab, aber alles hat geklappt.
